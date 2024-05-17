@@ -1,0 +1,81 @@
+:root {
+  --color-body: #b6cbce;
+  --color-heading: #eef3db;
+  --color-base: #07225096;
+  --color-base2: #09000f;
+  --color-brand: #03ffabd2;
+  --color-brand2: #08a0bbc7;
+  --sidbar-width: 240px;
+  --font-base: "Bai JamJuree";
+
+
+}
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: #08a0bbc7;
+  font-family: sans-serif;
+  font-size: 3rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-auto-rows: minmax(200px, auto);
+  grid-auto-flow: dense;
+}
+
+.grid-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: transparent;
+  border-radius: 4px;
+  transition: transform 0.3s ease-in-out;
+
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.grid-item:hover {
+  filter: opacity(0.9);
+  transform: scale(1.04);
+}
+
+@media (min-width: 600px) {
+  .wide {
+    grid-column: span 2;
+  }
+
+  .tall {
+    grid-row: span 2;
+  }
+}
+
+.btn{
+  padding: 12px 28px;
+  font-weight: 700;
+}
+
+.btn-brand{
+  background-color: var(--color-brand);
+  border-color: var(--color-brand2);
+}
+
+.btn-brand:focus,
+.btn-brand:hover{
+  background-color: var(--color-brand2);
+  border-color: var(--color-brand);
+  color: var(--color-base);
+}
