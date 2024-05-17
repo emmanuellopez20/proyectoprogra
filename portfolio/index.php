@@ -211,7 +211,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Personales</h4>
+                                <h4>Unos Guapillxs</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere aspernatur labore
                                     velit eveniet non consectetur cumque, reprehenderit assumenda, magni impedit
                                     similique modi officiis adipisci placeat odio quos quam quae nihil.</p>
@@ -251,7 +251,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 2</h4>
+                                <h4>Que chin%#@ su madre el minimo</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quasi eaque,
                                     distinctio aliquid repellat voluptatibus quae labore blanditiis ad vero optio neque
                                     pariatur corporis atque autem natus iusto suscipit? Eum?</p>
@@ -291,11 +291,11 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 3</h4>
+                                <h4>En vivo</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non nobis rerum corporis
                                     qui eaque, velit eligendi, praesentium, quo accusamus est facilis ducimus. Porro
                                     consequuntur quos deserunt eum ut consequatur beatae.</p>
-                                    <a href="../galleries/Sesh3.html" class="link-custom">Ver mas...</a>
+                                    <a href="galleries/Sesh3.html" class="link-custom">Ver mas...</a>
                             </div>
                         </div>
                     </div>
@@ -331,7 +331,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 4</h4>
+                                <h4>Choleros</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, qui vero aliquam
                                     possimus quisquam tempora odit placeat vitae voluptas voluptatibus expedita,
                                     cupiditate corrupti praesentium quaerat provident nulla aut? Aliquid, doloremque.
@@ -388,7 +388,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 5</h4>
+                                <h4>Robotsitos distopitocos alv</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere aspernatur labore
                                     velit eveniet non consectetur cumque, reprehenderit assumenda, magni impedit
                                     similique modi officiis adipisci placeat odio quos quam quae nihil.</p>
@@ -428,7 +428,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 6</h4>
+                                <h4>Impresion 3D</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quasi eaque,
                                     distinctio aliquid repellat voluptatibus quae labore blanditiis ad vero optio neque
                                     pariatur corporis atque autem natus iusto suscipit? Eum?</p>
@@ -468,7 +468,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 7</h4>
+                                <h4>Arte Plastico</h4>
                                 <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the
                                     elements you could ever need to put together</p>
                                     <a href="galleries/Sesh7.html" class="link-custom">Ver mas...</a>
@@ -507,7 +507,7 @@ if(isset($_POST['send'])){
                                 </div>
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Sesh 8</h4>
+                                <h4>Pintura</h4>
                                 <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the
                                     elements you could ever need to put together</p>
                                     <a href="galleries/Sesh8.html" class="link-custom">Ver mas...</a>
@@ -585,7 +585,7 @@ if(isset($_POST['send'])){
 
                             <div class="col-12" data-aos="fade-up" data-aos-delay="600">
                                 <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Risk analyst</h4>
+                                    <h4>Risk Analyst</h4>
                                     <p class="text-brand mb-2">Bread Financial(2022-presente)</p>
                                     <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
                                         consectetur adipisicing elit</p>
